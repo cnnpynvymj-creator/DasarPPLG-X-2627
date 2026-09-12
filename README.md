@@ -2,7 +2,8 @@
 <h3 align="center">Estudante de PPLG | Front-End & Back-End Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:auliarahmathalita.dudul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:auliarahmathalita.dudul@gmail.com"><img srcc
+                                            ="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/auliarahmathalita" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
